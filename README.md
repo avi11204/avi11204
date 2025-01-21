@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring innovative tech, building scalable applications, and contributing to open-source projects. 
 - 🌱 I’m currently learning Full-stack development focusing on modern frameworks and tools like React, Node.js, and MongoDB.  
 - 💞️ I want to collaborate on projects that solve real-world problems or involve creative tech solutions. 
-- 📫 How to reach me [Email](mailto:avanthikha11204@gmail.com) 
+- 📫 How to reach me [Email](mailto:avanthikha11204@gmail.com) | [LinkedIn](https://www.linkedin.com/in/avanthikha-bharanedharan-3b9395259/) 
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I believe every bug is just a misunderstood feature waiting to shine! 🚀
 
